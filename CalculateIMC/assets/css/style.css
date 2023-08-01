@@ -11,9 +11,11 @@
 }
 
 body {
+  background-image: url(../img/saudeimc.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
   margin: 0;
   padding: 0;
-  background: var(--primary-color);
   font-family: 'Open sans', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em;
@@ -27,6 +29,20 @@ body {
   border-radius: 10px;
 }
 
+h1 {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+.table-imc {
+  display: flex;
+  line-height: 1.1;
+}
+
+.table-imc div {
+  flex: 1;
+  margin: 10px;
+}
+
 form input, form label, form button {
   height: 80;
   display: block;
@@ -34,9 +50,13 @@ form input, form label, form button {
   margin-bottom: 10px;
 }
 
+form label {
+  font-weight: 700;
+}
+
 form input {
   font-size: 24px;
-  height: 50px;
+  height: 45px;
   padding: 0 20px;
   border-radius: 8px;
 }
