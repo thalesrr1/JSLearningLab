@@ -59,6 +59,11 @@ setResult = (msg, validValue) => {
     result.innerHTML = '';
     const p = createP();
     
+    if(validValue) {
+    p.classList.add('paragraphResult')
+    } else {
+    p.classList.add('invalidParagraphResult')
+    }
     p.innerHTML = msg;
     result.appendChild(p);
 };
