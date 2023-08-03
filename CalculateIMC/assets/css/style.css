@@ -33,12 +33,12 @@ h1 {
   color: var(--primary-color);
   font-weight: 700;
 }
-.table-imc {
+.table-bmi {
   display: flex;
   line-height: 1.1;
 }
 
-.table-imc div {
+.table-bmi div {
   flex: 1;
   margin: 10px;
 }
@@ -85,3 +85,13 @@ form button:active {
 background: rgb(9, 36, 44);
 }
 
+.paragraphResult {
+  background: rgb(88, 182, 88);
+  padding: 10px 20px;
+}
+
+
+.invalidParagraphResult {
+background:rgb(201, 75, 75);
+padding: 10px 20px;
+}
