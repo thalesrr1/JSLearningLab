@@ -17,5 +17,13 @@ console.log(resto);
 //índice                0          1          2
 //                   0  1  2    0  1  2    0  1  2  
 const contadores = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
+
+const [lista1, lista2, lista3] = contadores;
+console.log(lista1[2])
+
 //para acessar o valor 6 por exemplo, preciso acessar o índice 1 da lista(array) contadores, e o indice 2 da lista 1.
+/*
 console.log(contadores[1][2]);
+const [,[,,seis]] = contadores;  < forma complexa de chegarmos ao valor.
+console.log(seis)
+*/
