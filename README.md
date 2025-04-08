@@ -27,6 +27,7 @@ Meu laboratório prático de JavaScript onde registro aprendizados, projetos e e
 - Correções de conceitos
 
 "O código só melhora com prática e feedback constante."
+
 `
 javascript
 Copy
