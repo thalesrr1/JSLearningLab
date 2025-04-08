@@ -1,14 +1,33 @@
-# JSLearningLab
-Explorando o vasto universo do JavaScript, suas utilidades, frameworks e projetos práticos. Meu laboratório pessoal de aprendizado e crescimento como desenvolvedor JavaScript. 🚀
+📌 JS Learning Lab
+Meu laboratório prático de JavaScript onde registro aprendizados, projetos e experimentos com tecnologias front-end.
 
-O que esperar neste repositório:
+🧪 O que você encontra aqui
+- Projetos práticos com JavaScript puro
 
-Registro de Aprendizado: Ao longo do tempo, este repositório se tornará um registro cronológico dos tópicos que estudei e as lições aprendidas. 
+- Estudos sobre Angular e TypeScript
 
-Projetos de Prática: Aqui, você encontrará uma série de projetos que estou desenvolvendo para colocar em prática o que aprendi. 
+- Anotações úteis e lições aprendidas
 
-Exploração de Frameworks: À medida que avançei nos estudos decidi explorar o framework Angular
+- Evolução do meu código ao longo do tempo
 
-Aprendizado Colaborativo: Embora seja um projeto pessoal, estou aberto a receber feedback e sugestões da comunidade. 
+🛠 Tecnologias principais
+- JavaScript (ES6+)
 
-O JSLearningLab é um espaço onde posso mergulhar nas maravilhas do JavaScript e compartilhar meu progresso com outros entusiastas da programação
+- TypeScript
+
+- HTML/CSS moderno
+
+🤝 Como colaborar
+- Aceito sugestões de:
+
+- Melhorias de código
+
+- Novos projetos para praticar
+
+- Correções de conceitos
+
+"O código só melhora com prática e feedback constante."
+
+`
+console.log("Bora codar!"); 
+`
