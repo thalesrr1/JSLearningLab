@@ -29,8 +29,5 @@ Meu laboratório prático de JavaScript onde registro aprendizados, projetos e e
 "O código só melhora com prática e feedback constante."
 
 `
-javascript
-Copy
-// Simples, direto e prático
 console.log("Bora codar!"); 
 `
