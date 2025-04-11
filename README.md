@@ -15,7 +15,7 @@ Meu laboratório prático de JavaScript onde registro aprendizados, projetos e e
 
 - TypeScript
 
-- HTML/CSS moderno
+- HTML/CSS
 
 🤝 Como colaborar
 - Aceito sugestões de:
