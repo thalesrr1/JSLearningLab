@@ -1,5 +1,5 @@
 📌 JS Learning Lab
-Meu laboratório prático de JavaScript onde registro aprendizados, projetos e experimentos com tecnologias front-end.
+Meu laboratório prático de JavaScript onde registro aprendizados, projetos e experimentos.
 
 🧪 O que você encontra aqui
 - Projetos práticos com JavaScript puro
@@ -15,7 +15,7 @@ Meu laboratório prático de JavaScript onde registro aprendizados, projetos e e
 
 - TypeScript
 
-- HTML/CSS moderno
+- HTML/CSS
 
 🤝 Como colaborar
 - Aceito sugestões de:
