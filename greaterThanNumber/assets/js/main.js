@@ -43,3 +43,8 @@ greaterThan = (primaryNum, secondNum) => {
 
 }
 
+// Função Resumida
+
+const greaterThan2 = (x, y) => x > y ? x : y;
+console.log(greaterThan2(10, 20)); // 20
+console.log(greaterThan2(30, 20)); // 30
