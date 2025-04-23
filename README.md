@@ -4,8 +4,6 @@ Meu laboratório prático de JavaScript onde registro aprendizados, projetos e e
 🧪 O que você encontra aqui
 - Projetos práticos com JavaScript puro
 
-- Estudos sobre Angular e TypeScript
-
 - Anotações úteis e lições aprendidas
 
 - Evolução do meu código ao longo do tempo
@@ -18,15 +16,12 @@ Meu laboratório prático de JavaScript onde registro aprendizados, projetos e e
 - HTML/CSS
 
 🤝 Como colaborar
-- Aceito sugestões de:
 
 - Melhorias de código
 
 - Novos projetos para praticar
 
 - Correções de conceitos
-
-"O código só melhora com prática e feedback constante."
 
 `
 console.log("Bora codar!"); 
