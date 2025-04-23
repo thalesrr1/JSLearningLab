@@ -1,17 +1,20 @@
 function criaCalculadora() {
   return {
     display: document.querySelector('.display'),
-    btnClear: document.querySelector('.btn-clear'),
 
     clearDisplay() {
       this.display.value = ''
     },
 
-    inicia() {
-      this.cliqueBotoes()
+    deleteOne() {
+      this.display.value = this.display.value.slice(0, -1);
     },
 
-    cliqueBotoes() {
+    start() {
+      this.clickButtons()
+    },
+
+    clickButtons() {
       // this -> calculadora
       document.addEventListener('click', e => {
         const el = e.target
@@ -24,7 +27,10 @@ function criaCalculadora() {
           console.log('cheguei aqui')
           this.clearDisplay()
         }
-        
+        if(el.classList.contains('btn-del')){
+          this.deleteOne()
+        }
+
       });
     },
 
@@ -36,4 +42,4 @@ function criaCalculadora() {
 }
 
 const calculadora = criaCalculadora();
-calculadora.inicia();
+calculadora.start();
