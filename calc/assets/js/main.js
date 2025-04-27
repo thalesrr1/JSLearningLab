@@ -1,9 +1,17 @@
 function createCalculator() {
   return {
     display: document.querySelector('.display'),
-
+    
     start() {
-      this.clickButtons()
+      this.clickButtons();
+      this.pressEnter();
+    },
+
+    pressEnter() {
+      document.addEventListener('keyup', e => {
+        console.log(e.key);
+        if( e.key === 'Enter') this.makeCount()
+      });
     },
 
     clearDisplay() {
